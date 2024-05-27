@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+dv/build/out/
+dv/build/*.wlf
+dv/build/*.vstf
+dv/build/transcript
+dv/build/work
+dv/build/*.txt
+=======
+tmp/*
+>>>>>>> main

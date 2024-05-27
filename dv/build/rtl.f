@@ -1,0 +1,9 @@
+../../rtl/if/liteic_axi_lite_if.sv
+../../rtl/liteic_pkg.sv
+../../rtl/liteic_icon_top.sv
+../../rtl/liteic_master_node_read.sv
+../../rtl/liteic_master_node_write.sv
+../../rtl/liteic_priority_cd.sv
+../../rtl/liteic_addr_decoder.sv
+../../rtl/liteic_slave_node_read.sv
+../../rtl/liteic_slave_node_write.sv
